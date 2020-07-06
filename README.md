@@ -16,3 +16,5 @@ tkinter, tkinter.messagebox and sqlite3
  - Search
  - Update
  - Exit
+
+![](ss_StudentDBMS.png)

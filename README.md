@@ -4,7 +4,7 @@ Created a student management system to input __student id, first name, surname, 
 
 CRUD application is implemented using SQLite for backend and front UI with tkinter.
 
-Python Libraries-
+__Python Libraries-__
 
 
 tkinter, tkinter.messagebox and sqlite3

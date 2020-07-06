@@ -3,6 +3,8 @@
 Created a student management system to input __student id, first name, surname, date of birth, age, gender, address and mobile__
 
 CRUD application is implemented using SQLite for backend and front UI with tkinter.
+Python Libraries-
+tkinter, tkinter.messagebox sqlite3
 
  - Add New
  - Display
